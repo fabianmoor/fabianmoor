@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/734zgrX.jpg" 
     width="1500" 
-    height="200">
+    height="150">
 
 <a href="https://www.instagram.com/djawero/">
 <img src="https://i.imgur.com/HOTmhiB.png"
