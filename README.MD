@@ -45,11 +45,9 @@ class Skills:
 
 
 <ul>
-  <li>Python - About 6 months experience</li>
-  <li>Unix - Multiple years </li>
+  <li>Unix Systems - Multiple years </li>
   <li>Linux - 6 months experience</li>
-  <li>C - Currently Learning </li>
-  <li>JS - Currently Learning </li>
+  <li>Hardware - Multiple years </li>
 </ul>
 
 <p2>  This GitHub will contain all of my projects engineered by me through my software
