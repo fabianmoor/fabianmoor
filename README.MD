@@ -28,9 +28,9 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 <h2> Experience </h2>
 
 <ul>
-      Python - About 6 months experience <br>
-      C - Currently Learning <br>
-      JS - Currently Learning <br>
-  </ul>
+  <li>Python - About 6 months experience</li>
+  <li>C - Currently Learning </li>
+  <li>JS - Currently Learning </li>
+</ul>
 
 
