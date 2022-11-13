@@ -7,15 +7,15 @@
 <img src="https://i.imgur.com/734zgrX.jpg" width="100%" height="10%">
 
 <a href="https://www.instagram.com/djawero/">
-<img src="https://i.imgur.com/Pm5bguA.png"
+<img src="https://i.imgur.com/HOTmhiB.png"
     width="55" 
     height="55">
 </a>
 
 <a href="https://www.linkedin.com/in/fabian-moor-pucar-220519242/">
 <img src="https://i.imgur.com/ppKiSpl.png"
-    width="45"
-    height="45"
+    width="55"
+    height="55"
 </a>
 
 <h1> Welcome! I'm Fabian! :wave:</h1>
