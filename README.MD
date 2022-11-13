@@ -27,10 +27,10 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 
 <h2> Experience </h2>
 
-<p2>
+<h2>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"
-       width=12.5
-       height=12.5
+       width=20
+       height=20
     />
       Python 3.10 - About 6 months experience <br>
 
@@ -41,6 +41,6 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
   />
       C - Currently Learning <br>
       JS - Currently Learning <br>
-  </p2>
+  </h2>
 
 
