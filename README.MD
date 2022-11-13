@@ -25,7 +25,7 @@
 
 <h1> Welcome! I'm Fabian! :wave:</h1>
 <p1> I'm a python developer in the beginning of my software engineer
-journey. My current goals are learning C, SQL and some Javascript<br> </p1>
+journey. My current goals are learning C, SQL and some Javascript.</p1>
 
 <h2> Programming Languages </h2>
 
