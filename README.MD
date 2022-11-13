@@ -37,6 +37,7 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
   <img src="https://i.imgur.com/8Y3pQaf.png"
        width=15
        height=15
+       align=middle
   />
       C - Currently Learning <br>
       JS - Currently Learning <br>
