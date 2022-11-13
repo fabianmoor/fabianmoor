@@ -4,7 +4,7 @@
 
 <body>
 
-<img src="https://i.imgur.com/dplw61g.jpg" width="100%" height="30%">
+<img src="https://i.imgur.com/dplw61g.jpg" width="100%" height="10%">
 
 <h1> Welcome! I'm Fabian! :wave:</h1>
 <p1> I'm a python developer in the beginning of my software engineer
