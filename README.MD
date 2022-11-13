@@ -29,7 +29,7 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 
 <p2>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"
-       alt=python
+       alt="python"
        width=13
        height=13
     />
@@ -37,8 +37,9 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 
 
   <img src="https://i.imgur.com/8Y3pQaf.png"
+       alt="c"
        width=13
-       height=16
+       height=13
   />
       C - Currently Learning <br>
       JS - Currently Learning <br>
