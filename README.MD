@@ -28,7 +28,13 @@
      journey. My current goals are learning C, SQL and some Javascript.</p1>
 
 <h2> ~ Technical Qualifications ~ </h2>
+```python
 
+technical_qualifications = {
+  "age": 25,
+  "gender": "male",
+  
+}
 <ul>
   <li>Python - About 6 months experience</li>
   <li>Unix - Multiple years </li>
