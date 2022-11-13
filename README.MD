@@ -8,4 +8,5 @@
 <p1> I'm a python developer in the beginning of my software engineer
     journey. My current goals are learning C, SQL and some Javascript </p1>
 
-![Alt text](url "https://imgur.com/dplw61g")
+
+![Employee data](https://imgur.com/dplw61g "Employee Data title")
