@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <head>
+  <title> Center an Image using text align center </title>
+<style>
+  .img-containter {
+    text-align: center;
+  }
+
   <link rel="stylesheet" type="text/css" href="README.css" />
 </head>
 
@@ -28,6 +34,7 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 <h2> Experience </h2>
 
 <p2>
+<div class="img-container">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"
        width=15
        height=15
