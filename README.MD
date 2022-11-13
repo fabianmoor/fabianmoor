@@ -8,8 +8,8 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" 
-    width="20" 
-    height="20">
+    width="55" 
+    height="55">
 
 <h1> Welcome! I'm Fabian! :wave:</h1>
 <p1> I'm a python developer in the beginning of my software engineer
