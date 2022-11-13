@@ -5,8 +5,8 @@
 <body>
 
 <img src="https://i.imgur.com/734zgrX.jpg" 
-    width="1500" 
-    height="150">
+    width="100%" 
+    height="100%">
 
 <a href="https://www.instagram.com/djawero/">
 <img src="https://i.imgur.com/HOTmhiB.png"
