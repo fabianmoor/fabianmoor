@@ -28,19 +28,7 @@ journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 <h2> Experience </h2>
 
 <ul>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"
-       alt="python"
-       width=13
-       height=13
-    />
       Python - About 6 months experience <br>
-
-
-  <img src="https://i.imgur.com/8Y3pQaf.png"
-       alt="c"
-       width=13
-       height=13
-  />
       C - Currently Learning <br>
       JS - Currently Learning <br>
   </ul>
