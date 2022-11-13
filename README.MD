@@ -25,9 +25,6 @@
 journey. My current goals are learning C, SQL and some Javascript<br> </p1>
 
 <h2> Experience </h2>
-<img src"https://cdn-icons-png.flaticon.com/512/5968/5968286.png"
-     width=15
-     height=15
 
 <p2>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"
