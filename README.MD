@@ -25,7 +25,7 @@
 
 <h1> Welcome! I'm Fabian! :wave:</h1>
 <p1> I'm a python developer in the beginning of my software engineer
-journey. My current goals are learning C, SQL and some Javascript.</p1>
+     journey. My current goals are learning C, SQL and some Javascript.</p1>
 
 <h2> Programming Languages </h2>
 
@@ -37,11 +37,11 @@ journey. My current goals are learning C, SQL and some Javascript.</p1>
   <li>JS - Currently Learning </li>
 </ul>
 
-<p2> This GitHub will contain all of my projects engineered by me through my software
+<p2>  This GitHub will contain all of my projects engineered by me through my software
       engineering journey. I will make sure to push all my finished projects as well as 
       projects while under development available for dissection and observation.<br>
       <br>
-      Epic
+      Enjoy your stay.
 </p2>
 
 
