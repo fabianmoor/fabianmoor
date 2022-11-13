@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/HOTmhiB.png"
     width="55" 
     height="55">
-    align=riggt
+    align=right
 </a>
 
 <a href="https://www.linkedin.com/in/fabian-moor-pucar-220519242/">
