@@ -4,7 +4,9 @@
 
 <body>
 
-<img src="https://i.imgur.com/734zgrX.jpg" width="100%" height="10%">
+<img src="https://i.imgur.com/734zgrX.jpg" 
+    width="100" 
+    height="100">
 
 <a href="https://www.instagram.com/djawero/">
 <img src="https://i.imgur.com/HOTmhiB.png"
