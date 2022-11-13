@@ -30,11 +30,20 @@
 <h2> ~ Technical Qualifications ~ </h2>
 
 ```python
-technical_qualifications = {
-  "age": 25,
-  "gender": "male",
-  
-}
+class Fabian:
+  def __init__(self, name, age, national):
+    self.name = "Fabian"
+    self.age = 25
+    self.national = "Sweden"
+
+class Skills:
+  def __init__(self, python, c, javascript):
+    self.python = "7 months"
+    self.c = "fresh beginner"
+    self.c = "fresh beginner"
+```
+
+
 <ul>
   <li>Python - About 6 months experience</li>
   <li>Unix - Multiple years </li>
