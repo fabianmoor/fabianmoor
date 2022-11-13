@@ -5,7 +5,7 @@
 
 <body>
 
-<img src="https://i.imgur.com/734zgrX.jpg" 
+<img src="https://i.imgur.com/4XnuedV.jpg" 
     width="100%" 
     height="100%">
 
