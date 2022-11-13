@@ -31,8 +31,17 @@ journey. My current goals are learning C, SQL and some Javascript.</p1>
 
 <ul>
   <li>Python - About 6 months experience</li>
+  <li>Unix - Multiple years </li>
+  <li>Linux - 6 months experience</li>
   <li>C - Currently Learning </li>
   <li>JS - Currently Learning </li>
 </ul>
+
+<p2> This GitHub will contain all of my projects engineered by me through my software
+      engineering journey. I will make sure to push all my finished projects as well as 
+      projects while under development available for dissection and observation.<br>
+      <br>
+      Epic
+</p2>
 
 
