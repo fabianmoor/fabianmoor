@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/djawero/">
 <img src="https://i.imgur.com/HOTmhiB.png"
     width="55" 
-    height="55">
+    height="55"
     align=right
 </a>
 
