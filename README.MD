@@ -37,10 +37,10 @@ class Fabian:
     self.national = "Sweden"
 
 class Skills:
-  def __init__(self, python, c, javascript):
+  def __init__(self, python, c, js):
     self.python = "7 months"
     self.c = "fresh beginner"
-    self.c = "fresh beginner"
+    self.js = "fresh beginner"
 ```
 
 
