@@ -14,8 +14,8 @@
 
 <a href="https://www.linkedin.com/in/fabian-moor-pucar-220519242/">
 <img src"https://i.imgur.com/ppKiSpl.png"
-    width="55"
-    height="55"
+    width="100"
+    height="100"
 </a>
 
 <h1> Welcome! I'm Fabian! :wave:</h1>
