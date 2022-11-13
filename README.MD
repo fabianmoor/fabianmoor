@@ -24,3 +24,9 @@
 <p1> I'm a python developer in the beginning of my software engineer
     journey. My current goals are learning C, SQL and some Javascript </p1>
 
+<p2> Python 3.10 - About 6 months experience \n
+      C - Currently Learning
+      JS - Currently Learning
+  </p2>
+
+
