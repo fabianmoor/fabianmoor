@@ -27,7 +27,7 @@
 <p1> I'm a python developer in the beginning of my software engineer
      journey. My current goals are learning C, SQL and some Javascript.</p1>
 
-<h2> ~ Programming Languages ~ </h2>
+<h2> ~ Technical Qualifications ~ </h2>
 
 <ul>
   <li>Python - About 6 months experience</li>
